@@ -1,0 +1,27 @@
+.pencil{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 50%;
+    margin-left: 12px;
+}
+.trash{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-right: 10px;
+
+}
+.home{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius:5px;
+    margin-top: 20px;
+   justify-content: end;
+}
